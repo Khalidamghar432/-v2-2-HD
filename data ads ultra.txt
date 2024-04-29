@@ -1,18 +1,18 @@
 {
     "appRedirect": {
-        "status": true,
+        "status": false,
         "redirectURL": "https://play.google.com/store/apps/details?id=com.casestandoff.caseopening.casegun"
     },
     "AdsController": {
-        "BannerNetwork": "Applovin",
-        "InterstitialNetwork": "Applovin",
-        "NativeNetwork": "Applovin",
-        "OpenAdNetwork": "Applovin",
+        "BannerNetwork": "admob",
+        "InterstitialNetwork": "admob",
+        "NativeNetwork": "admob",
+        "OpenAdNetwork": "admob",
         "IntervalClick": 1,
-        "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
-        "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
-        "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
-        "AdMob_OpenAd": "ca-app-pub-4401988206912308/2094992282",
+        "AdMob_Banner": "ca-app-pub-4401988206912308/8331166917",
+        "AdMob_InterstitialAd": "ca-app-pub-4401988206912308/8564220760",
+        "AdMob_Native": "ca-app-pub-4401988206912308/5513431887",
+        "AdMob_OpenAd": "ca-app-pub-4401988206912308/1574186871",
         "Applovin_Banner": "af8fa2cba0e2ad56",
         "Applovin_InterstitialAd": "e8546eb936da78d4",
         "Applovin_Native": "1b68992899436826",
